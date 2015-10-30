@@ -40,7 +40,7 @@
     "commander": "2.9.0",
     "cssom": "0.3.0",
     "slick": "1.12.2",
-    "web-resource-inliner": "1.2.0"
+    "json-loader": "^0.5.3"
   },
   "devDependencies": {
     "should": "4.0.4",
